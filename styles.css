@@ -91,6 +91,7 @@ body {
   margin: 5px;
 }
 
+/* Hover effect for buttons */
 #controls button:hover {
   background-color: #0056b3;
 }
